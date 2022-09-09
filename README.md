@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Joseph-Willem-Ricci
 - 👀 I’m interested in technology that extends human capacity
-- 🌱 I’m currently learning Python, Java, Software Development and Discrete Math through the University of Pennsylvania's Master of Computer and Information Technology
+- 🌱 I’m currently taking Introuction to Computer Systems and Algorithms & Computation through the University of Pennsylvania's Master of Computer and Information Technology
 - 📫 How to reach me:
 -- e-mail:   jwricci@upenn.edu
 -- twitter:  @jwillemricci

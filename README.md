@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Joseph-Willem-Ricci
-- 👀 I’m interested in technology that extends human capacity
-- 🌱 I’m currently taking AI, Big Data Analytics & Computer Systems Programming through the University of Pennsylvania's Master of Computer and Information Technology
+- 👀 I’m interested in technology that extends human capacity and minimizes time spent using technology. More with less.
+- 🌱 I’m currently taking a course in Networked Systems
 - Check out my latest project here https://github.com/lam-benjamin/mosa-fall-2022-hackathon
   - Poodle - A Java console app that automatically schedules a team of employees given Doodle-esq formatted availabilities
 

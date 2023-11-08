@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Joseph-Willem-Ricci
 - 👀 I’m interested in renewable energy and technology that allows people to do more with less.
-- 🌱 I’m currently taking a course in Natural Language Processing
+- 🌱 I’m currently taking [a course in Natural Language Processing](https://computational-linguistics-class.org/lectures.html) and TA'ing [a course in Artificial Intelligence](https://artificial-intelligence-class.org/)
 - Check out my latest project here https://github.com/lam-benjamin/mosa-fall-2022-hackathon
   - Poodle - A Java console app that automatically schedules a team of employees given Doodle-esq formatted availabilities
 

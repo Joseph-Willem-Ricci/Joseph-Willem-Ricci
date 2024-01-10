@@ -5,7 +5,7 @@
   - Music, art, and expression
   - Environment and organic farming
 - 🌱 I recently graduated with a Master in Computer and Information Technology from the University of Pennsylvania, where I am still TA'ing [a class in Artificial Intelligence](https://artificial-intelligence-class.org/)
-- I am actively working on [Poodle](https://github.com/Joseph-Willem-Ricci/poodle-scheduler), a scheduling app that automatically schedules shifts for a team of employees. This project is inspired by my time working as caregiver for a young man with muscular dystrophy, who would spend many needlessly laborious hours scheduling his helpers according to their requested availabilities. You can also check out two of my other projects below:
+- I am actively working on [Poodle](www.poodlescheduler.com), a scheduling app that automatically schedules shifts for a team of employees. This project is inspired by my time working as caregiver for a young man with muscular dystrophy, who would spend many needlessly laborious hours scheduling his helpers according to their requested availabilities. You can also check out the repos for Poodle and two of my other projects below:
   - Data analysis of the influence of TikTok on Spotify streaming success
   - Distributed file sharing system (email for permission)
 
